@@ -13,3 +13,8 @@ var x=10
 var y=40
 print("la somme est =",x+y)
 ```
+```
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
+```
